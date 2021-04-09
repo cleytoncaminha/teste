@@ -1,0 +1,7 @@
+h1{font-family: serif;
+    color: rgb(204, 39, 33);
+    font-size: 1cm;}
+    
+    .contenedor{background-color: antiquewhite;width: 90%;margin-right: auto;margin-left: auto; font-size: 2cm; }
+    .cabecera{color: rgb(78, 57, 172); font-size: 1cm; background-color: aqua;border: red solid 3px ; }
+    .contenido{color: blue; font-size: 5mm;background-color: aquamarine;border: plum solid 3px;}
